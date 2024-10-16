@@ -1,4 +1,4 @@
-# Internet Speed Test Script
+# Internet Speed Test Script // Telegram Notify
 
 This repository contains a Bash script that performs an internet speed test using `speedtest-cli` and sends the results to a specified Telegram channel.
 
