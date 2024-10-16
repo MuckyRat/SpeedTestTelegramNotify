@@ -32,8 +32,11 @@ Step 2: Create the Script
    ```bash
    nano ~/scripts/speedtest_telegram.sh
    ```
-3. Copy the Script: Copy and paste the code from speedtest_telegram.sh
-4. Save and Exit: If using nano, press CTRL + O to save, then CTRL + X to exit.
+3. Copy the Script:
+   ```bash
+   Copy and paste the code from speedtest_telegram.sh
+   ```
+5. Save and Exit: If using nano, press CTRL + O to save, then CTRL + X to exit.
 
 ### Step 3: Make the code executable. 
    ```bash
