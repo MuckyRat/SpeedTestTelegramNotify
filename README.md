@@ -49,6 +49,17 @@ To set up your Telegram bot and obtain the necessary credentials, follow these s
   - Send a message to your bot and check the API response.
   - Use tools like [GetIDBot](https://getid.bot/) to easily retrieve your chat ID.
 
+## Usage
+Run the script manually with the following command:
+   ```bash
+   ~/scripts/speedtest_telegram.sh
+   ```
+You can also set up a cron job to run the script automatically at specified intervals. For example, to run it every hour, add the following line to your crontab:
+   ```bash
+   0 * * * * ~/scripts/speedtest_telegram.sh
+   ```
+
+
 
 
 
