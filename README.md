@@ -6,7 +6,6 @@ This repository contains a Bash script that performs an internet speed test usin
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [License](#license)
 
 ## Installation
 
