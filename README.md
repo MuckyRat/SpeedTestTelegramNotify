@@ -40,7 +40,15 @@ Step 2: Create the Script
    ```bash
    chmod +x ~/scripts/speedtest_telegram.sh
    ```
-### Configuration
+## Configuration
+To set up your Telegram bot and obtain the necessary credentials, follow these steps:
+## 1. Create a Telegram Bot
+- **BotFather**: Start by creating a Telegram bot and obtaining the token. You can do this by chatting with [BotFather](https://core.telegram.org/bots#botfather).
+## 2. Obtain Your Chat ID
+- **Chat ID**: To send messages to a specific group or individual, you'll need the chat ID. Here are a couple of methods to find it:
+  - Send a message to your bot and check the API response.
+  - Use tools like [GetIDBot](https://getid.bot/) to easily retrieve your chat ID.
+
 
 
 
